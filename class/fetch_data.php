@@ -1,8 +1,8 @@
 <?php
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'gautam15_reegraa');//
-define('DB_PASSWORD', 'reegraaj');//
-define('DB_NAME', 'gautam15_reegraaj');//
+define('DB_USERNAME', 'root');//
+define('DB_PASSWORD', '');//
+define('DB_NAME', 'reegraaj');//
 class fetch_data
 	{
  		function __construct()
